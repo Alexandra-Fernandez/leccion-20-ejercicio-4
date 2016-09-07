@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    padding-top: 10%;
+}
+button {
+    width: 300px;
+    height: 60px;
+    background-color: brown;
+    margin-top: 30px;
+    border-radius: 30px;
+    color: #FFFFFF;    
+}
+
+input {
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
